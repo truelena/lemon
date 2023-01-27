@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.lemonade.LemonadeTests" tests="6" failures="1" errors="0" skipped="0" time="17.005" timestamp="2023-01-26T10:11:04" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_4_API_30(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="test_squeezing_lemon_proceeds_to_drink_state" classname="com.example.lemonade.LemonadeTests" time="2.809" />
+  <testcase name="test_initial_state" classname="com.example.lemonade.LemonadeTests" time="0.346" />
+  <testcase name="test_picking_lemon_proceeds_to_squeeze_state" classname="com.example.lemonade.LemonadeTests" time="0.78" />
+  <testcase name="test_drinking_juice_proceeds_to_restart_state" classname="com.example.lemonade.LemonadeTests" time="1.805" />
+  <testcase name="test_restarting_proceeds_to_pick_lemon_state" classname="com.example.lemonade.LemonadeTests" time="2.373" />
+  <testcase name="test_squeeze_count_snackbar_is_displayed" classname="com.example.lemonade.LemonadeTests" time="4.322">
+    <failure></failure>
+  </testcase>
+  <system-err>Test run failed to complete. Expected 6 tests, received 5
+</system-err>
+</testsuite>

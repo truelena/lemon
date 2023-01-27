@@ -1,0 +1,141 @@
+01-26 10:10:46.207 26691 26715 I TestRunner: started: test_squeezing_lemon_proceeds_to_drink_state(com.example.lemonade.LemonadeTests)
+01-26 10:10:46.219 26691 26715 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-26 10:10:46.234   520   538 D EventSequenceValidator: inc AccIntentStartedEvents to 3
+01-26 10:10:46.277   312  1442 D goldfish-address-space: claimShared: Ask to claim region [0x3ef4fc000 0x3efe61000]
+01-26 10:10:46.282   291   291 D Zygote  : Forked child process 26717
+01-26 10:10:46.286 26717 26717 I e.lemonade.tes: Late-enabling -Xcheck:jni
+01-26 10:10:46.312 26717 26717 I e.lemonade.tes: Unquickening 12 vdex files!
+01-26 10:10:46.313 26717 26717 W e.lemonade.tes: Unexpected CPU variant for X86 using defaults: x86
+01-26 10:10:46.319   385   416 I adbd    : jdwp connection from 26717
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.329   520   866 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.330   520   866 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.356 26717 26717 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+01-26 10:10:46.356 26717 26717 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+01-26 10:10:46.360 26717 26717 I e.lemonade.tes: The ClassLoaderContext is a special shared library.
+01-26 10:10:46.362 26717 26717 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+01-26 10:10:46.362 26717 26717 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+01-26 10:10:46.370 26717 26717 I e.lemonade.tes: The ClassLoaderContext is a special shared library.
+01-26 10:10:46.400 26717 26717 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+01-26 10:10:46.401 26717 26717 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+01-26 10:10:46.416 26717 26743 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+01-26 10:10:46.417 26717 26743 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+01-26 10:10:46.420 26717 26743 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+01-26 10:10:46.456   520   837 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.457   520   837 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+01-26 10:10:46.465   312  1442 D goldfish-address-space: claimShared: Ask to claim region [0x3eded0000 0x3ee835000]
+01-26 10:10:46.523 26691 26746 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+01-26 10:10:46.525 26691 26746 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+01-26 10:10:46.531 26691 26746 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+01-26 10:10:46.630 26691 26691 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@53f0d27 in: PRE_ON_CREATE
+01-26 10:10:46.631 26691 26691 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-26 10:10:46.871 26691 26691 W xample.lemonad: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+01-26 10:10:46.872 26691 26691 W xample.lemonad: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+01-26 10:10:47.078 26691 26691 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@53f0d27 in: CREATED
+01-26 10:10:47.078 26691 26691 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@53f0d27
+01-26 10:10:47.081 26691 26691 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@53f0d27 in: STARTED
+01-26 10:10:47.082 26691 26691 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@53f0d27
+01-26 10:10:47.084 26691 26691 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@53f0d27 in: RESUMED
+01-26 10:10:47.084 26691 26691 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@53f0d27
+01-26 10:10:47.113 26691 26715 D EventInjectionStrategy: Creating injection strategy with input manager.
+01-26 10:10:47.114 26691 26715 W xample.lemonad: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+01-26 10:10:47.114 26691 26715 W xample.lemonad: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+01-26 10:10:47.114 26691 26715 W xample.lemonad: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+01-26 10:10:47.156 26691 26744 D HostConnection: HostConnection::get() New Host Connection established 0xf11b85c0, tid 26744
+01-26 10:10:47.159 26691 26744 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+01-26 10:10:47.161   183   183 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+01-26 10:10:47.161 26691 26744 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-26 10:10:47.180 26691 26744 D EGL_emulation: eglCreateContext: 0xf11b77c0: maj 2 min 0 rcv 2
+01-26 10:10:47.182 26691 26744 D EGL_emulation: eglMakeCurrent: 0xf11b77c0: ver 2 0 (tinfo 0xf14f9690) (first time)
+01-26 10:10:47.186   312  1442 D goldfish-address-space: claimShared: Ask to claim region [0x3ed56b000 0x3eded0000]
+01-26 10:10:47.189   183   183 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+01-26 10:10:47.189 26691 26744 I Gralloc4: mapper 4.x is not supported
+01-26 10:10:47.190 26691 26744 D HostConnection: createUnique: call
+01-26 10:10:47.190 26691 26744 D HostConnection: HostConnection::get() New Host Connection established 0xf11b7de0, tid 26744
+01-26 10:10:47.190 26691 26744 D goldfish-address-space: allocate: Ask for block of size 0x100
+01-26 10:10:47.191 26691 26744 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3e7ffe000 size 0x2000
+01-26 10:10:47.195 26691 26744 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+01-26 10:10:47.197   312  1442 D goldfish-address-space: claimShared: Ask to claim region [0x3f1c2f000 0x3f2594000]
+01-26 10:10:47.198   312  1442 D goldfish-address-space: claimShared: Ask to claim region [0x3f2594000 0x3f2ef9000]
+01-26 10:10:47.321   520   545 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lemonade/1/com.example.lemonade.MainActivity/compiled_traces/compiled_trace.pb doesn't exist
+01-26 10:10:47.322   520   545 I ActivityTaskManager: Displayed com.example.lemonade/.MainActivity: +1s82ms
+01-26 10:10:47.325   520   538 D EventSequenceValidator: dec AccIntentStartedEvents to 2
+01-26 10:10:47.333 26691 26715 W xample.lemonad: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+01-26 10:10:47.370 26691 26691 W xample.lemonad: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+01-26 10:10:47.370 26691 26691 W xample.lemonad: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+01-26 10:10:47.371 26691 26691 W xample.lemonad: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+01-26 10:10:47.382  1234  1234 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+01-26 10:10:47.384  1234  1234 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+01-26 10:10:47.384  1234  1234 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lemonade fieldId=-1 fieldName=null extras=null}, false)
+01-26 10:10:47.384  1234  1234 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+01-26 10:10:47.384  1234  1234 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+01-26 10:10:47.387 26691 26691 W xample.lemonad: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+01-26 10:10:47.387 26691 26691 W xample.lemonad: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+01-26 10:10:47.387 26691 26691 W xample.lemonad: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+01-26 10:10:47.397 26691 26691 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+01-26 10:10:47.417  1655 25125 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+01-26 10:10:47.420  1655  1914 W SearchServiceCore: Abort, client detached.
+01-26 10:10:47.450   520  3388 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:47.451   520  3388 I chatty  : uid=1000(system) Binder:520_17 identical 1 line
+01-26 10:10:47.590   520  3388 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:47.634  4522  5146 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+01-26 10:10:47.634  4522  5146 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+01-26 10:10:47.636  4522  5146 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+01-26 10:10:47.650  4522  5146 I FontLog : Pulling font file for id = 49, cache size = 8 [CONTEXT service_id=132 ]
+01-26 10:10:47.657  4522  5146 I FontLog : Pulling font file for id = 49, cache size = 8 [CONTEXT service_id=132 ]
+01-26 10:10:47.736 26691 26691 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165325
+01-26 10:10:47.739 26691 26691 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+01-26 10:10:47.795   520  3388 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:47.922   520  3388 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:48.053 26691 26691 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165325
+01-26 10:10:48.061 26691 26691 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+01-26 10:10:48.122   520   837 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:48.254   520   837 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:48.358 26691 26691 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165325
+01-26 10:10:48.361 26691 26691 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+01-26 10:10:48.411   520   837 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:48.541   520   837 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:48.660 26691 26691 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165325
+01-26 10:10:48.664 26691 26691 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+01-26 10:10:48.715   520  3388 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:48.847   520   866 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+01-26 10:10:48.978 26691 26691 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165325
+01-26 10:10:48.978 26691 26691 E ViewAssertions: '(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)' check could not be performed because view 'has drawable resource 2131165325' was not found.
+01-26 10:10:48.986 26691 26691 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>}' assertion on view view.getId() is <2131231150/com.example.lemonade:id/text_action>
+01-26 10:10:48.990 26691 26691 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=has drawable resource 2131165323}' assertion on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+01-26 10:10:49.037 26691 26715 I TestRunner: finished: test_squeezing_lemon_proceeds_to_drink_state(com.example.lemonade.LemonadeTests)

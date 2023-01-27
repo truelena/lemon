@@ -1,0 +1,337 @@
+# 2023-01-26T10:11:04.102Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 6
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "LemonadeTests"
+    test_package: "com.example.lemonade"
+    test_method: "test_squeezing_lemon_proceeds_to_drink_state"
+    start_time {
+      seconds: 1674727847
+      nanos: 26000000
+    }
+    end_time {
+      seconds: 1674727849
+      nanos: 847000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\logcat-com.example.lemonade.LemonadeTests-test_squeezing_lemon_proceeds_to_drink_state.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "LemonadeTests"
+    test_package: "com.example.lemonade"
+    test_method: "test_initial_state"
+    start_time {
+      seconds: 1674727850
+      nanos: 743000000
+    }
+    end_time {
+      seconds: 1674727851
+      nanos: 86000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\logcat-com.example.lemonade.LemonadeTests-test_initial_state.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "LemonadeTests"
+    test_package: "com.example.lemonade"
+    test_method: "test_picking_lemon_proceeds_to_squeeze_state"
+    start_time {
+      seconds: 1674727852
+      nanos: 19000000
+    }
+    end_time {
+      seconds: 1674727852
+      nanos: 801000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\logcat-com.example.lemonade.LemonadeTests-test_picking_lemon_proceeds_to_squeeze_state.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "LemonadeTests"
+    test_package: "com.example.lemonade"
+    test_method: "test_drinking_juice_proceeds_to_restart_state"
+    start_time {
+      seconds: 1674727853
+      nanos: 763000000
+    }
+    end_time {
+      seconds: 1674727855
+      nanos: 568000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\logcat-com.example.lemonade.LemonadeTests-test_drinking_juice_proceeds_to_restart_state.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "LemonadeTests"
+    test_package: "com.example.lemonade"
+    test_method: "test_restarting_proceeds_to_pick_lemon_state"
+    start_time {
+      seconds: 1674727856
+      nanos: 423000000
+    }
+    end_time {
+      seconds: 1674727858
+      nanos: 796000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\logcat-com.example.lemonade.LemonadeTests-test_restarting_proceeds_to_pick_lemon_state.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "LemonadeTests"
+    test_package: "com.example.lemonade"
+    test_method: "test_squeeze_count_snackbar_is_displayed"
+    start_time {
+      seconds: 1674727859
+      nanos: 698000000
+    }
+    end_time {
+      seconds: 1674727864
+      nanos: 19000000
+    }
+  }
+  test_status: FAILED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\logcat-com.example.lemonade.LemonadeTests-test_squeeze_count_snackbar_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\truel\\Downloads\\lemonade\\android-basics-kotlin-lemonade-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_4_API_30(AVD) - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
+issue {
+  namespace {
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  severity: SEVERE
+  code: 1
+  name: "INSTRUMENTATION_FAILED"
+  message: "Test run failed to complete. Expected 6 tests, received 5"
+}
